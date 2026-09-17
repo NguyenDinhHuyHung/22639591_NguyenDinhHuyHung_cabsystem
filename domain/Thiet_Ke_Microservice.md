@@ -1,12 +1,5 @@
 # THIẾT KẾ MICRO-SERVICE CHO CAB SYSTEM
 
-Hoàn thiện 8 mục theo hệ thống đặt xe trực tuyến
-
-Tài liệu này bổ sung và hoàn thiện 8 mục trong bản thiết kế
-Micro-Service ban đầu, đồng thời mở rộng từ phần Identity & Access và
-Booking đã có sang toàn bộ miền nghiệp vụ CAB System. Hệ thống được phân
-tách theo Bounded Context để mỗi miền sở hữu logic và dữ liệu riêng, có
-thể triển khai, mở rộng và cô lập lỗi tương đối độc lập.
 
 ## 1. Phân tách Use Case theo miền nghiệp vụ
 
